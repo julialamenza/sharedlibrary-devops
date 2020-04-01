@@ -1,4 +1,4 @@
-# jenkins-pipeline-sre
+# jenkins-pipeline-devops
 Base in declarative pipelines
 Basic you dont need to have jenkins files inside Jenkins and need to be copy for all your envs for example, you ask you jenkins to take it from your lib (shared library) and after you can just call your fuction inside any of your jobs
 
